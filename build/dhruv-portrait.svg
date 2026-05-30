@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Editorial portrait placeholder for Dhruv Vaswani</title>
+  <desc id="desc">A cutout-style monochrome portrait placeholder to be replaced by the uploaded Dhruv portrait.</desc>
+  <rect width="900" height="1200" fill="none"/>
+  <path d="M449 105c118 0 205 91 205 213 0 79-35 148-92 187 118 47 198 169 198 311v274H140V816c0-142 80-264 198-311-57-39-92-108-92-187 0-122 85-213 203-213Z" fill="#111111" opacity=".88"/>
+  <path d="M224 749c74-71 154-107 240-107 111 0 193 45 245 135v313H224V749Z" fill="#F6F3EE" opacity=".2"/>
+  <path d="M188 1090h524" stroke="#E0A92E" stroke-width="8"/>
+  <text x="450" y="1160" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="24" fill="#666666" letter-spacing="6">REPLACE WITH DHRUV PORTRAIT</text>
+</svg>
